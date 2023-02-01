@@ -1,0 +1,15 @@
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\bin\Debug\net6.0\StringProcessing.exe
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\bin\Debug\net6.0\StringProcessing.deps.json
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\bin\Debug\net6.0\StringProcessing.runtimeconfig.json
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\bin\Debug\net6.0\StringProcessing.dll
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\bin\Debug\net6.0\StringProcessing.pdb
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\obj\Debug\net6.0\StringProcessing.csproj.AssemblyReference.cache
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\obj\Debug\net6.0\StringProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\obj\Debug\net6.0\StringProcessing.AssemblyInfoInputs.cache
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\obj\Debug\net6.0\StringProcessing.AssemblyInfo.cs
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\obj\Debug\net6.0\StringProcessing.csproj.CoreCompileInputs.cache
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\obj\Debug\net6.0\StringProcessing.dll
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\obj\Debug\net6.0\refint\StringProcessing.dll
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\obj\Debug\net6.0\StringProcessing.pdb
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\obj\Debug\net6.0\StringProcessing.genruntimeconfig.cache
+C:\Users\cschm\source\repos\GrandCircus\Labs\StringProcessingApp\StringProcessing\obj\Debug\net6.0\ref\StringProcessing.dll
